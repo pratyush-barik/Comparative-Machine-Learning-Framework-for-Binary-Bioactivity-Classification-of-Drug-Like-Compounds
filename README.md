@@ -140,10 +140,10 @@ Evaluation metrics:
 drug-bioactivity-classification/
 │
 ├── data/
-│   ├── raw/
-│   ├── processed/
-│   └── final/
-│       └── classification_model_data.csv
+│   ├── raw_bioactivity_data.csv
+│   ├── preprocessed_bioactivity_data.csv
+│   ├── normalized_data.csv
+│   └── classification_model_data.csv
 │
 ├── notebooks/
 │   ├── 1) ChEMBL_Data_Preprocessing.ipynb
