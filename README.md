@@ -1,0 +1,2 @@
+# Comparative-Machine-Learning-Framework-for-Binary-Bioactivity-Classification-of-Drug-Like-Compounds
+This project implements a machine learning pipeline for binary classification of drug-like compounds using ChEMBL bioactivity data. Features include molecular descriptors and fingerprints. Models such as SVM, RF, KNN, CNN, and SNN are evaluated, with classical methods achieving the best performance.
